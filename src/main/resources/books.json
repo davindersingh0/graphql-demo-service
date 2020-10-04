@@ -1,0 +1,43 @@
+[
+  {
+    "isn": "11",
+    "title": "Clean Code",
+    "publisher": "Pearson",
+    "authors": [
+      "Robert Cecil Martin"
+    ],
+    "publishedDate": "August 1, 2008"
+  },
+  {
+    "isn": "12",
+    "title": "The Art of Computer Programming",
+    "publisher": "Addison-Wesley Professional",
+    "authors": [
+      "Donald E. Knuth"
+    ],
+    "publishedDate": "March 3, 2011"
+  },
+  {
+    "isn": "13",
+    "title": "Introduction to Algorithms",
+    "publisher": "The MIT Press",
+    "authors": [
+      "Thomas H. Cormen",
+      "harles E. Leiserson",
+      "Ronald L. Rivest",
+      "Clifford Stein"
+    ],
+    "publishedDate": "July 31, 2009"
+  },
+  {
+    "isn": "14",
+    "title": "Structure and Interpretation of Computer Programs",
+    "publisher": "The MIT Press",
+    "authors": [
+      "Harold Abelson",
+      "Julie Sussman",
+      "Gerald Jay Sussman"
+    ],
+    "publishedDate": "September 1, 1996"
+  }
+]
